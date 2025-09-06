@@ -5,3 +5,7 @@ button{
     font-family: Helvetica, "Times new Roman", sans-serif;
 }
 
+.btn-click-me{
+    background-color: black;
+    color: white;
+}
