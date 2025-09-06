@@ -9,3 +9,7 @@ button{
     background-color: black;
     color: white;
 }
+
+.btn-no-click-me{
+    background-color: yellow;
+}
